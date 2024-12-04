@@ -119,7 +119,7 @@ if (isset($_GET['page2'])) {
                 <div class="container-fluid d-flex flex-column p-0">
                     <a class="navbar-brand d-flex justify-content-center align-items-center sidebar-brand m-0" href="#">
                         <div class="sidebar-brand-text mx-3">
-                            <span>Administrator</span>
+                            <span>Administrators</span>
                         </div>
                     </a>
                     <hr class="sidebar-divider my-0" />
